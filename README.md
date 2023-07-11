@@ -1,5 +1,5 @@
-# DiagnoCareHub
-DiagnoCareHub is ML-based web app which diagnoses patients from disease like Parkinson, Diabetes, Heart disease, etc.
+# DiagnoCareHub - A Web App for Disease Prediction
+DiagnoCareHub is a Streamlit web application designed to predict the likelihood of three different diseases: Diabetes, Parkinson's, and Heart Disease. By leveraging machine learning algorithms and user input, the app provides users with an assessment of their potential health conditions.
 
 Link to web app  : [https://diagnocarehub.onrender.com](https://diagnocarehub.onrender.com)
 
